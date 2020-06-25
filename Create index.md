@@ -1,6 +1,6 @@
 ![Market1](https://github.com/kvinne-anc/kvinne-anc.github.io/blob/master/farmers-markets.jpg)
 
-### Economic Accessibility of Farmer's Markets in New York State 
+# Economic Accessibility of Farmer's Markets in New York State 
 ## A geospatial analysis of the distribution of Farmer's Markets in New York State and their accessibility to low-income families
 
 "Farmers markets are an important way for citizens to eat healthy fresh food while supporting small family farms. 
@@ -26,7 +26,7 @@ Markets were geospatially mapped by longitude and latitude to demonstrate their 
 and occassionally an address, longitude and latitude served to be the best identifiers here. While the coordinates ensure accuracy of location, they do present difficulties
 when subjected to the process of graphing data. 
 
-## The distribution of markets in New York State can be seen below, pictured in green. The plot below it shows the distribution of credit as an accepted form of payment. 
+## The distribution of markets in New York State can be seen in the plot below, which shows the distribution of credit as an accepted form of payment. 
 The color distribution has been used to indicate each form of payment's status as accepted (yellow) or not (blue). Credit can be viewed almost as a control, although not entirely. 
 Credit is a much more common form of payment in general, although many Farmer's Markets still opperate in a strictly cash environment. The significance of the acceptance of credit 
 is that it suggests that the vendors have the means to process benefits payments, such as the EBT food stamps debit card.
@@ -36,19 +36,19 @@ is that it suggests that the vendors have the means to process benefits payments
 Aside from credit, four other payment methods were mapped: WIC (Women, Infants, and Children), WICcash (Women, Infants, and Children cash benefit), 
 SFMNP (Senior's Farmer's Market Nutrition Program), and SNAP (Supplemental Nutrition Assistance Program), each of which is a separate benefits program. 
 
-## The distribution of each can be seen below: 
+## The distribution of each can be seen below, in order from most widely accepted to least: 
 
 # Women, Infants, and Children
 ![WIC](https://github.com/kvinne-anc/kvinne-anc.github.io/blob/master/Farm_WIC.png)
-
-# Women, Infants, and Children cash benefit
-![WICcash](https://github.com/kvinne-anc/kvinne-anc.github.io/blob/master/Farm_WICcash.png)
 
 # Senior's Farmer's Market Nutrition Program
 ![SFMNP](https://github.com/kvinne-anc/kvinne-anc.github.io/blob/master/Farm_SFMNP.png)
 
 # Supplemental Nutrition Assistance Program 
 ![SNAP](https://github.com/kvinne-anc/kvinne-anc.github.io/blob/master/Farm_SNAP.png)
+
+# Women, Infants, and Children cash benefit
+![WICcash](https://github.com/kvinne-anc/kvinne-anc.github.io/blob/master/Farm_WICcash.png)
 
 As evidenced by the geospatial map of the payment data, the acceptance of benefits is relatively evenly distributed in relation to the prevalence of Farmer's Markets. 
 As expected, the prevalence of markets is clustered near cities, with the highest density being unsurprisingly in New York City, and then there is a spattering of 
@@ -72,3 +72,12 @@ that it provides access to. It provides low-income people with more options for 
 Overall, it's really a win-win. 
 
 ![Market3](https://github.com/kvinne-anc/kvinne-anc.github.io/blob/master/Farmer's%20Market.jpeg)
+
+
+Data sourced from: 
+- [Kaggle](https://www.kaggle.com/madeleineferguson/farmers-markets-in-the-united-states)
+
+Notebook: 
+- [Colab](https://colab.research.google.com/drive/1qGAg_zSVG1Lu903jGCGS3rIO2CQRNhP2?usp=sharing)
+
+## Date published: June 25th 2020 
